@@ -201,8 +201,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="313" />
-    <option name="y" value="291" />
+    <option name="x" value="-80" />
+    <option name="y" value="103" />
     <option name="width" value="1364" />
     <option name="height" value="726" />
   </component>
@@ -667,7 +667,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="313" y="291" width="1364" height="726" extended-state="0" />
+    <frame x="-80" y="103" width="1364" height="726" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2992126" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />

@@ -23,7 +23,6 @@ public class WorkerEx extends AbstractWorker {
     }
 
 
-
     public void process(InputStream is,OutputStream os) throws IOException {
 
         Date date = new Date();
@@ -34,4 +33,7 @@ public class WorkerEx extends AbstractWorker {
 
         System.out.println("Request processed: " + date);
     }
+
+    String jsonresponse = "{head:" +
+            "body:}";
 }

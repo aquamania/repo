@@ -25,5 +25,8 @@
         <module name="json-html-server" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="json-html-server" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
